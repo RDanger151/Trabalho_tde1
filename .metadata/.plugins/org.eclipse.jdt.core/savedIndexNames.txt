@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\rafae\OneDrive\Área de Trabalho\NOVAPASTA\TDE1_T\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3900911574.index
+3572355908.index
